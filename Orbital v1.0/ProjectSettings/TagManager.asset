@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftTrigger
+  - RightTrigger
+  - Doggo
+  - Enemies
+  - bone
+  - coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - EndsTriggerZones
+  - Pet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: RoomBackground
+    uniqueID: 1406419535
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Pet
+    uniqueID: 2285685869
+    locked: 0

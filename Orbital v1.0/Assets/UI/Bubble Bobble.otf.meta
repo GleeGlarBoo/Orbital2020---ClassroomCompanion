@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a6d93f24cda453e4fb828822ab69fcd5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bubble Bobble
+  fontNames:
+  - Bubble Bobble
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 58036477e45f0d2459576ae2da5c5ba1, type: 3}
+  - {fileID: 12800000, guid: 51e2854dc1093964face271ef8351a62, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
