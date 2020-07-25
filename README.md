@@ -3,7 +3,7 @@ ClassroomCompanion is a educational game to allow lower secondary students to le
 
 Try out the game on an Android phone! APK File: https://drive.google.com/drive/folders/1uthK5jg5emcXINII-U5zL_bTpbL8KwSJ?usp=sharing
 
-README: https://docs.google.com/document/d/1QBq_rM6RhQcd412Appb2bYSi_EsQtZH1S6iZjKuhnUM/edit?usp=sharing
+Project's README: https://docs.google.com/document/d/1QBq_rM6RhQcd412Appb2bYSi_EsQtZH1S6iZjKuhnUM/edit?usp=sharing
 
 
 ClassroomCompanion is created on Unity. We had no prior Unity knowledge and had picked it up over our year 1 summer break. 
