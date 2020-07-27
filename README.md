@@ -7,6 +7,6 @@ Project's README: https://docs.google.com/document/d/1QBq_rM6RhQcd412Appb2bYSi_E
 
 Poster: https://i.imgur.com/4lmJm99.jpg
 
-Full unity project in 'Orbital2020'
+Full unity project in 'Orbital v1.0'
 
 ClassroomCompanion is created on Unity. We had no prior Unity knowledge and had picked it up over our year 1 summer break. 
