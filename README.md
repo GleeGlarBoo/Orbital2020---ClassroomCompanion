@@ -1,5 +1,5 @@
 # Orbital2020---ClassroomCompanion
-ClassroomCompanion is a educational game to allow lower secondary students to learn anywhere and anytime in a fun and engaging manner. This is a project for Orbital2020 and I worked on it with my partner, Chloe. 
+ClassroomCompanion is an educational mobile game to allow lower secondary students to learn anywhere and anytime in a fun and engaging manner. This is a project for Orbital2020 and I worked on it with my partner, Chloe. 
 
 ClassroomCompanion was awarded Artemis Level for Orbital2020, the highest attainable level possible!
 
