@@ -24,6 +24,14 @@ Try out the game on an Android phone! APK File: https://drive.google.com/drive/f
 
 [Poster's Link](https://imgur.com/bEV0rY)
 
+### Project's Trailer
+
+https://youtu.be/KksSw3pkGGI
+
+### Project's Demo
+
+https://youtu.be/Oh-d-NiGHdE
+
 ### Project's README
 https://docs.google.com/document/d/1QBq_rM6RhQcd412Appb2bYSi_EsQtZH1S6iZjKuhnUM/edit?usp=sharing
 
